@@ -1,5 +1,5 @@
 #Python 通过rpy2调用 R语言
-软件版本
+系统环境
 >python 2.7.4  32bit
 
 >R 3.0.1  i386-w64-mingw32/i386 (32-bit)
