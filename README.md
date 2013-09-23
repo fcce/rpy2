@@ -40,3 +40,4 @@ rpy2的文档在[这里](http://rpy.sourceforge.net/rpy2/doc-2.3/html/index.html
 - [sourceforge.net](http://sourceforge.net/mailarchive/forum.php?set=custom&viewmonth=&viewday=&forum_name=rpy-list&style=nested&max_rows=75&submit=Change+View)
 - [www.blogosfera.co.uk](http://www.blogosfera.co.uk/2012/06/install-rpy2-on-windows7-64bit-for-python-2-7/)
 - [Github--bwallace/OpenMeta-analyst-](https://github.com/bwallace/OpenMeta-analyst-/wiki/Setting-up-a-development-environment)
+- [我的博客 RforGIS](http://www.rforgis.com)
