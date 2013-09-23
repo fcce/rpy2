@@ -33,7 +33,7 @@ rpy2的文档在[这里](http://rpy.sourceforge.net/rpy2/doc-2.3/html/index.html
     r=ro.r
     r("pi")
 
-example文件夹中将给出各种例子
+[example](https://github.com/kalelfc/rpy2/tree/master/example)文件夹中将给出各种例子
 
 ###参考资料
 
