@@ -20,6 +20,12 @@ rpy2 官方不支持windows了，python 2.7安装官方版本会报错。
 
 rpy2的文档在[这里](http://rpy.sourceforge.net/rpy2/doc-2.3/html/index.html)，也可以参考三个pdf文件。
 
+需要设置环境变量：
+    
+    path :安装路径\bin  #例如 C:\R-3.0.1\bin
+    R_Home :安装路径  #例如 C:\R-3.0.1
+    R_User ：可以也设置为安装路径  #例如 C:\R-3.0.1\bin
+
 简单的例子：
 
     import rpy2
