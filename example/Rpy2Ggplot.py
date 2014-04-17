@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 # @Date    : 2013-09-21 22:43:00
 # @Author  : Fengce kalelfc@gmail.com
-# @Link    : www.rforgis.com
 
 '''
 python 调用 R语言，并使用 ggplot2
