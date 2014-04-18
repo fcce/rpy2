@@ -2,10 +2,12 @@
 
 **系统环境**
 
->python 2.7.4  32bit
->R 3.0.1  i386-w64-mingw32/i386 (32-bit)
->rpy2 2.3.7  32bit
->windows 8  64bit
+```
+python 2.7.4  32bit
+R 3.0.1  i386-w64-mingw32/i386 (32-bit)
+rpy2 2.3.7  32bit
+windows 8  64bit
+```
 
 ###安装方法
 
