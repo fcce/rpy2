@@ -1,4 +1,4 @@
-#Python 通过rpy2调用 R语言
+# Python 通过rpy2调用 R语言
 
 **系统环境**
 
@@ -9,7 +9,7 @@ rpy2 2.3.7  32bit
 windows 8  64bit
 ```
 
-###安装方法
+### 安装方法
 
 rpy2 官方不支持windows了，python 2.7安装官方版本会报错。
 
@@ -37,7 +37,7 @@ rpy2的文档在[这里](http://rpy.sourceforge.net/rpy2/doc-2.3/html/index.html
 
 [example](https://github.com/kalelfc/rpy2/tree/master/example)文件夹中将给出各种例子
 
-###参考资料
+### 参考资料
 
 - [sourceforge.net](http://sourceforge.net/mailarchive/forum.php?set=custom&viewmonth=&viewday=&forum_name=rpy-list&style=nested&max_rows=75&submit=Change+View)
 - [www.blogosfera.co.uk](http://www.blogosfera.co.uk/2012/06/install-rpy2-on-windows7-64bit-for-python-2-7/)
